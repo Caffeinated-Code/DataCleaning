@@ -2,7 +2,7 @@
 Identifying and dealing with/dropping coarse and dirty data using Pandas of Python
 
 ### Dataset: rawData.xlxs
-     Contains ORFs from the left arm of chromosome 11 from Saccharomyces cerevisea.  However, you will notice that there are several errors in the file.  The first row, highlighted in yellow, contains correctly formatted data. The subsequent rows may contains data errors.\
+     Contains ORFs from the left arm of chromosome 11 from Saccharomyces cerevisea.\  However, you will notice that there are several errors in the file.\  The first row, highlighted in yellow, contains correctly formatted data.\ The subsequent rows may contains data errors.\
      
 You should expect to find the following types of information in the columns:\
       1.	Row number: use this when you refer to the rows with errors (mandatory)\
