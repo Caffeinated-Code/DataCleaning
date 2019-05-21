@@ -19,8 +19,8 @@ You should expect to find the following types of information in the columns:\
       12. Description: A short summary of the biological role of the ORF (optional)\
 
 ### Python Libraries used:
-      1. Pandas\
-      2. Numpy\
-      3. re\
-      4. array\
-      5. datetime\
+      1. Pandas
+      2. Numpy
+      3. re
+      4. array
+      5. datetime
