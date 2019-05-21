@@ -1,7 +1,7 @@
 # DataCleaning
 Identifying and dealing with/dropping coarse and dirty data using Pandas of Python
 
-Dataset: rawData.xlxs\
+###Dataset: rawData.xlxs\
      Contains ORFs from the left arm of chromosome 11 from Saccharomyces cerevisea.  However, you will notice that there are several errors in the file.  The first row, highlighted in yellow, contains correctly formatted data. The subsequent rows may contains data errors.\
      
 You should expect to find the following types of information in the columns:\
@@ -18,7 +18,7 @@ You should expect to find the following types of information in the columns:\
       11. Sequence version date: date when the genomic sequence was last modified (optional)\
       12. Description: A short summary of the biological role of the ORF (optional)\
 
-Python Libraries used:
+###Python Libraries used:\
       1. Pandas\
       2. Numpy\
       3. re\
