@@ -5,7 +5,7 @@ Dataset: rawData.xlxs
      Contains ORFs from the left arm of chromosome 11 from Saccharomyces cerevisea.  However, you will notice that there are several errors in the file.  The first row, highlighted in yellow, contains correctly formatted data. The subsequent rows may contains data errors.
      
 You should expect to find the following types of information in the columns:
-      1.	Row number: use this when you refer to the rows with errors (mandatory);
+      1.	Row number: use this when you refer to the rows with errors (mandatory)\
       2.  Primary SGDID: a unique identifier for the sequence feature (mandatory);
       3.  Feature type: a phrase that describes the sequence feature   (mandatory);
       4.  Feature name: a name that describes the approximate location of the sequence feature (optional);
